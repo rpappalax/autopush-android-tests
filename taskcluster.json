@@ -1,0 +1,5 @@
+{
+  "taskClusterUrl":"https://queue.taskcluster.net/v1/task/",
+  "taskClusterTask": "gecko.v2.mozilla-central.latest.mobile.android-api-15-opt",
+  "taskClusterArtifactName": "/artifacts/public/build/fennec-53.0a1.en-US.android-arm.apk"
+}

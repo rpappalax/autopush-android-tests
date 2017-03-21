@@ -1,0 +1,4 @@
+pytest==2.9.2
+Appium-Python-Client>=0.22
+taskcluster >=0.3.4
+pytest-selenium >= 1.5.0

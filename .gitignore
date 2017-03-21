@@ -1,0 +1,9 @@
+.DS_Store
+*.sw[op]
+venv/
+lib/
+bin/
+include/
+selenium/
+.Python/
+.cache/

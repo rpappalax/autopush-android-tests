@@ -1,0 +1,14 @@
+{"capabilities" : {
+  "appium-version": "1.5.3",
+  "platformName": "Android",
+  "platformVersion": "7.0",
+  "browserName":"",
+  "deviceName": "Experia Z3C",
+  "appPackage": "org.mozilla.fennec",
+  "appActivity": "org.mozilla.gecko.BrowserApp",
+  "intentAction": "android.intent.action.MAIN",
+  "intentCategory": "android.intent.category.LAUNCHER",
+  "optionalIntentArguments": "--ez skipstartpane true",
+  "appiumServer": "localhost:4723/wd/hub"
+  }
+}
